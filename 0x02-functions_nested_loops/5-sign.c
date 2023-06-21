@@ -2,8 +2,7 @@
 
 /**
  * print_sign - Tohis function prints the sign of the number
- * @t: An input number
- * 
+ * @t: An input number 
  * Return: 1 if number is positive, o if number is 0, or
  * -1 if number is negative
  */

@@ -2,7 +2,7 @@
 
 /**
  * _islower - Print alphabet in lowercase 10 times
- * @c: An input character
+ * @r: An input character
  *
  * Return: 1 if is lowercase or 0 if is uppercase
  */
